@@ -3,6 +3,7 @@ Data Structures & Algorithms – 3rd Semester Lab Work
 This repository contains my 3rd semester Data Structures & Algorithms (DSA) lab programs implemented as part of the academic curriculum. It includes practical implementations of fundamental data structures, classic algorithms, and problem-solving techniques commonly used in computer science.
 
 📚 Topics Covered
+
 🔎 Searching Algorithms
 Linear Search
 Binary Search
